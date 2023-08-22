@@ -22,7 +22,7 @@ The site employs Node and Express on the back end, with MySQL for the database q
 
 ## Additional Libraries Used
 
-I used the hamburger-react package for my animated hamburger menu. I used the react-router-dom package for the routing.
+I used the hamburger-react package for my animated hamburger menu.  For the routing, I used the react-router-dom package.
 
 ## Project Screenshots
 
