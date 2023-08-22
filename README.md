@@ -1,17 +1,16 @@
 # FlamDragon_Project
 A full-stack, faux-store, final-project website
 
-## `hsl(63, 94%, 49%)`Project Requirements
+## Project Requirements
 
-Build an online store using Node.js on the back end and React on the front end.
+### Build an online store using Node.js on the back end and React on the front end.
 
-Must have a home, about, all products, and single product page
-Build a database that has the inventory and any other tables that are needed
-Using Node.js and Express, build an api to connect to the database
-Using React, render the data to the browser and the appropriate pages
-Must have a form (either contact or inventory) to collect data from the end client and store into the database
-Must be responsive (mobile, tablet, desktop)
-
+- Must have a home, about, all products, and single product page
+- Build a database that has the inventory and any other tables that are needed
+- Using Node.js and Express, build an api to connect to the database
+- Using React, render the data to the browser and the appropriate pages
+- Must have a form (either contact or inventory) to collect data from the end client and store into the database
+- Must be responsive (mobile, tablet, desktop)
 
 ## Front End  
 
