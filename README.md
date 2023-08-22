@@ -26,33 +26,37 @@ I used the hamburger-react package for my animated hamburger menu. I used the 
 
 ## Project Screenshots
 
-Home Page: Desktop View
+**Home Page: Desktop View**
 
 ![Screenshot of the home page, added in the Markdown, showing the drummer Elvin Jones smoking a cigareete while playing the drumset.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/0d6f5e38-de9d-4a06-8a94-81e73ccb4ea6)
 
 
-Products Page: Mobile View
+**Products Page: Mobile View**
+
 ![Screenshot of desktop view of the Products page, added in the Markdown](https://github.com/sydekix/FlamDragon_Project/assets/30737202/49ae105a-9dab-4dc6-9e91-c77c1b30b85c)
 
 
 
-Products Page: Tablet View
+**Products Page: Tablet View**
 
 ![Screenshot of a tablet view of the Products page, added in the Markdown.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/b447156d-f245-449c-93bd-911db77aeaa0)
 
 
 
-Products Page: Mobile View
+**Products Page: Mobile View**
+
 ![Screenshot of a mobile view of the Products page, added in the Markdown.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/da816215-9af4-4756-8096-72321377061d)
 
 
 
-'customers' Table Structure
+**'customers' Table Structure**
+
 ![Screenshot of customers table structure.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/c08fbc17-646d-450a-b1f7-3fb463f1379c)
 
 
 
-'drumsticks' Table Structure
+**'drumsticks' Table Structure**
+
 ![Screenshot of drumsticks table structure](https://github.com/sydekix/FlamDragon_Project/assets/30737202/ff97b517-5d5d-4a4d-bc47-a32e35d9f704)
 
 
