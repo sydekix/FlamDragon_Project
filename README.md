@@ -14,7 +14,7 @@ A full-stack, faux-store, final-project website for Mississippi Coding Academies
 
 ## Front End  
 
-The site is a React single-page application, written in JSX and JavaScript. It’s styled with a combination of vanilla CSS and Bootstrap, with the exception of the carousel. (It uses the React-Bootstrap library, which I found played better with React than the standard carousel from Bootstrap.)
+The site is a React single-page application. The file structure was created with Create React App. The front end is written with HTML/JavaScript/JSX. It’s styled with a combination of vanilla CSS and Bootstrap, with the exception of the carousel, which uses the React-Bootstrap library. 
 
 ##   Back End
 
