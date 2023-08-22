@@ -40,9 +40,11 @@ I used the hamburger-react package for my animated hamburger menu. I used the 
 
 
 
+
 **Products Page: Tablet View**
 
 ![Screenshot of a tablet view of the Products page, added in the Markdown.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/b447156d-f245-449c-93bd-911db77aeaa0)
+
 
 
 
@@ -54,6 +56,7 @@ I used the hamburger-react package for my animated hamburger menu. I used the 
 
 
 
+
 **'customers' Table Structure**
 
 ![Screenshot of customers table structure.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/c08fbc17-646d-450a-b1f7-3fb463f1379c)
@@ -61,9 +64,7 @@ I used the hamburger-react package for my animated hamburger menu. I used the 
 
 
 
+
 **'drumsticks' Table Structure**
 
 ![Screenshot of drumsticks table structure](https://github.com/sydekix/FlamDragon_Project/assets/30737202/ff97b517-5d5d-4a4d-bc47-a32e35d9f704)
-
-
-
