@@ -15,4 +15,5 @@ I used the hamburger-react package for my animated hamburger menu. I used the 
 
 ## Project Screenshots
 
-![Screenshot of the home page of the FlamDragon project, added in the Markdown, showing the drummer Elvin Jones smoking a cigareete while playing the drumset.](/client/src/media/elvin-jones-4.jpg)
+![Screenshot of the home page of the FlamDragon project, added in the Markdown, showing the drummer Elvin Jones smoking a cigareete while playing the drumset.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/0d6f5e38-de9d-4a06-8a94-81e73ccb4ea6)
+)
