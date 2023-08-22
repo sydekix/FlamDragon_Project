@@ -13,3 +13,6 @@ The site employs Node and Express on the back end, with MySQL for the database q
 
 I used the hamburger-react package for my animated hamburger menu. I used the react-router-dom package for the routing.
 
+## Project Screenshots
+
+! [Screenshot of the home page of the FlamDragon project, added in the Markdown, showing the drummer Elvin Jones smoking a cigareete while playing the drumset.] (client/src/media/elvin-jones-4.jpg)
