@@ -31,6 +31,7 @@ I used the hamburger-react package for my animated hamburger menu. I used the 
 ![Screenshot of the home page, added in the Markdown, showing the drummer Elvin Jones smoking a cigareete while playing the drumset.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/0d6f5e38-de9d-4a06-8a94-81e73ccb4ea6)
 
 
+
 **Products Page: Mobile View**
 
 ![Screenshot of desktop view of the Products page, added in the Markdown](https://github.com/sydekix/FlamDragon_Project/assets/30737202/49ae105a-9dab-4dc6-9e91-c77c1b30b85c)
