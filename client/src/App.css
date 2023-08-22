@@ -202,11 +202,11 @@ a.memphis-drum-shop:hover {
 .products-heading {
   color: var(--accent-color);
   display: inline;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .products-heading-div{
-  margin-top: 4rem;
+  margin-top: 5rem;
   margin-bottom: 2rem;
 }
 
