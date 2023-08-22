@@ -30,5 +30,5 @@ I used the hamburger-react package for my animated hamburger menu. I used the 
 
 ![Screenshot of a tablet view of the Products page of the FlamDragon project, added in the Markdown.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/b447156d-f245-449c-93bd-911db77aeaa0)
 
-![Screenshot of a mobile view of the Products page of the FlamDragon project, added in the Markdown.] (https://github.com/sydekix/FlamDragon_Project/assets/30737202/da816215-9af4-4756-8096-72321377061d)
+![Screenshot of a mobile view of the Products page of the FlamDragon project, added in the Markdown.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/da816215-9af4-4756-8096-72321377061d)
 
