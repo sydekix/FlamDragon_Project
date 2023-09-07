@@ -35,9 +35,11 @@ Here's a smattering of views from various parts of the site.
 
 
 
+
 **About Page: Tablet View**
 
 ![Screen Shot 2023-09-06 at 7 29 59 PM](https://github.com/sydekix/FlamDragon_Project/assets/30737202/393017a2-2a6e-45fd-97c5-762c0df0c67f)
+
 
 
 
@@ -51,9 +53,11 @@ Here's a smattering of views from various parts of the site.
 
 
 
+
 **Products Page: Tablet View**
 
 ![Screenshot of a tablet view of the Products page, added in the Markdown.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/b447156d-f245-449c-93bd-911db77aeaa0)
+
 
 
 
@@ -67,9 +71,11 @@ Here's a smattering of views from various parts of the site.
 
 
 
+
 **'customers' Table Structure**
 
 ![Screenshot of customers table structure.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/c08fbc17-646d-450a-b1f7-3fb463f1379c)
+
 
 
 
