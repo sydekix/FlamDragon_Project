@@ -16,7 +16,7 @@ A full-stack, faux-store, final-project website for Mississippi Coding Academies
 
 The site is a React single-page application. The file structure was created with Create React App. The front end is written with HTML/JavaScript/JSX. It’s styled with a combination of vanilla CSS and Bootstrap, with the exception of the carousel, which uses the React-Bootstrap library. 
 
-##  Back End
+## Back End
 
 The site employs Node and Express on the back end, with MySQL for the database queries. (This is not a production app, so the database is hosted on my local machine.) The database: 1) pulls data from a “products” table to populate the Products page, and 2) accepts user input on the Newsletter page to store names and email addresses in a “customers” table .
 
