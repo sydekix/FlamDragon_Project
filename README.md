@@ -33,7 +33,7 @@ I used the hamburger-react package for my animated hamburger menu.  For the ro
 
 
 
-**Products Page: Mobile View**
+**Products Page: Desktop View**
 
 ![Screenshot of desktop view of the Products page, added in the Markdown](https://github.com/sydekix/FlamDragon_Project/assets/30737202/49ae105a-9dab-4dc6-9e91-c77c1b30b85c)
 
