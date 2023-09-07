@@ -72,6 +72,15 @@ Here's a smattering of views from various parts of the site.
 
 
 
+**Newsletter Page: Mobile View**
+
+![Screen Shot 2023-09-06 at 7 29 59 PM](https://github.com/sydekix/FlamDragon_Project/assets/30737202/9c7c605f-8574-4977-a3f0-47925c0a5117)
+
+
+
+
+
+
 **'customers' Table Structure**
 
 ![Screenshot of customers table structure.](https://github.com/sydekix/FlamDragon_Project/assets/30737202/c08fbc17-646d-450a-b1f7-3fb463f1379c)
