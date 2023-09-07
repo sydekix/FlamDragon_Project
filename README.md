@@ -36,6 +36,7 @@ Here's a smattering of views from various parts of the site.
 
 
 **About Page: Tablet View**
+
 ![Screen Shot 2023-09-06 at 7 29 59 PM](https://github.com/sydekix/FlamDragon_Project/assets/30737202/393017a2-2a6e-45fd-97c5-762c0df0c67f)
 
 
